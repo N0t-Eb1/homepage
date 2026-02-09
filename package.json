@@ -42,7 +42,6 @@
     },
     "dependencies": {
         "@mdi/js": "^7.4.47",
-        "powerglitch": "^2.5.0",
-        "vanilla-tilt": "^1.8.1"
+        "powerglitch": "^2.5.0"
     }
 }
